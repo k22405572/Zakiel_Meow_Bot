@@ -1785,8 +1785,8 @@
     "sonicorExilisSkin": "超音波衝擊槍 鍍銅外觀",
     "leftPrismaDaedalusKneePlates": "稜晶 代達羅斯 左護膝板",
     "rightPrismaDaedalusKneePlates": "稜晶 代達羅斯 右護膝板",
-    "leftPrismaDaedalusShoulder": "稜晶 代達羅斯 左護肩",
-    "rightPrismaDaedalusShoulder": "稜晶 代達羅斯 右護肩",
+    "leftPrismaDaedalusShoulderGuard": "稜晶 代達羅斯 左護肩",
+    "rightPrismaDaedalusShoulderGuard": "稜晶 代達羅斯 右護肩",
     "noggleStatueBaroKiteer": "BARO KI'TEER 搖頭娃娃",
     "twinGrakataTowsunSkin": "雙子葛拉卡達 夏至外觀",
     "kiteerLegPlates": "KI'TEER 腿部護甲",
@@ -1985,7 +1985,14 @@
     "nexusGene-maskingKit":"納瑟斯基因偽裝包",
     "3DayResourceBooster":"3 天資源數量加成",
     "bronzeKavatBust":"庫娃半身銅像",
-    "baroKiteerGlyph":"BARO KI'TEER 浮印"
+    "baroKiteerGlyph":"BARO KI'TEER 浮印",
+    "tarotCardTennoConI":"卡牌 — Xaku",
+    "tarotCardTennoConJ":"卡牌 — 火衛二奇美鮥",
+    "splitFlights":"裂箭分飛",
+    "weaponGlaiveSecondaryHeadshotKillMod":"連擊殺手",
+    "kiteerDomestikDrone":"Ki'teer 內務無人機",
+    "3DayCreditBooster":"3 天現金加成",
+    "macheteSyachidSkin":"薩希德砍刀外觀"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
