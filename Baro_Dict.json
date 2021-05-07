@@ -1980,6 +1980,7 @@
     "kiteerEphemera":"Ki'teer 幻紋",
     "noggleStatue-ExcaliburWithOdonata":"裝備 Odonata 的 Excalibur 搖頭娃娃",
     "tarotCardTennoConA":"卡牌 — 火衛二 FASS",
+    "tarotCardTennoConC":"卡牌 — 火衛二暴速翼蟲",
     "zephyrImmortalSkin":"Zephyr 不朽外觀",
     "paracesisElixisSkin":"心智之歿鍍銅外觀",
     "nexusGene-maskingKit":"納瑟斯基因偽裝包",
@@ -1992,7 +1993,15 @@
     "weaponGlaiveSecondaryHeadshotKillMod":"連擊殺手",
     "kiteerDomestikDrone":"Ki'teer 內務無人機",
     "3DayCreditBooster":"3 天現金加成",
-    "macheteSyachidSkin":"薩希德砍刀外觀"
+    "macheteSyachidSkin":"薩希德砍刀外觀",
+    "necraArmorC":"穆爾賽伯胸甲",
+    "primedCleanseCorpus":"淨化 Corpus Prime",
+    "primedCleanseCorrupted":"淨化墮落者 Prime",
+    "dvadLuxxumOrnament":"得瓦特 樂昇飾物",
+    "chromaAlternateSkin":"Chroma 不朽外觀",
+    "prismaLotusSigil","稜晶 Lotus 紋章",
+    "5xCorruptedHeavyGunnerSpecter":"5Ｘ墮落重型機槍兵魅影",
+    "desertSkateFloof":"沙漠鰩魚玩偶"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
