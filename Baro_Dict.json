@@ -1980,6 +1980,7 @@
     "kiteerEphemera":"Ki'teer 幻紋",
     "noggleStatue-ExcaliburWithOdonata":"裝備 Odonata 的 Excalibur 搖頭娃娃",
     "tarotCardTennoConA":"卡牌 — 火衛二 FASS",
+    "tarotCardTennoConB":"卡牌 — 火衛二 Scissus",
     "tarotCardTennoConC":"卡牌 — 火衛二暴速翼蟲",
     "zephyrImmortalSkin":"Zephyr 不朽外觀",
     "paracesisElixisSkin":"心智之歿鍍銅外觀",
@@ -2001,7 +2002,15 @@
     "chromaAlternateSkin":"Chroma 不朽外觀",
     "prismaLotusSigil":"稜晶 Lotus 紋章",
     "5xCorruptedHeavyGunnerSpecter":"5Ｘ墮落重型機槍兵魅影",
-    "desertSkateFloof":"沙漠鰩魚玩偶"
+    "desertSkateFloof":"沙漠鰩魚玩偶",
+    "mulciberLegPlate":"穆爾賽伯膝甲",
+    "bronzeKubrowBust":"庫狛半身銅像",
+    "elixisTiberon":"狂鯊 鍍銅外觀",
+    "lisetCydoniaSkin":"Liset 塞東尼外觀",
+    "10xKiteerFireworks":"10 X Ki'teer 煙花",
+    "twinSnakesGlyph":"Vome－Fass 浮印",
+    "prismaCompanionPoster":"棱晶同伴海報",
+    "drigaDesert-camoSkin":"電氣浮囊 沙漠迷彩外觀"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
