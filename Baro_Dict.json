@@ -1983,6 +1983,7 @@
     "tarotCardTennoConB":"卡牌 — 火衛二 Scissus",
     "tarotCardTennoConC":"卡牌 — 火衛二暴速翼蟲",
     "tarotCardTennoConD":"卡牌 — 火衛二鞭棘鱇",
+    "tarotCardTennoConE":"卡牌 — 火衛二臟葉鰼",
     "tarotCardTennoConI":"卡牌 — Xaku",
     "tarotCardTennoConJ":"卡牌 — 火衛二奇美鮥",
     "zephyrImmortalSkin":"Zephyr 不朽外觀",
@@ -1999,6 +2000,8 @@
     "necraArmorC":"穆爾賽伯胸甲",
     "primedCleanseCorpus":"淨化 Corpus Prime",
     "primedCleanseCorrupted":"淨化墮落者 Prime",
+    "primedCleanseGrineer":"淨化 Grineer Prime",
+    "primedCleanseInfested":"淨化 Infested Prime",
     "dvadLuxxumOrnament":"得瓦特 樂昇飾物",
     "chromaAlternateSkin":"Chroma 不朽外觀",
     "prismaLotusSigil":"稜晶 Lotus 紋章",
@@ -2019,7 +2022,14 @@
     "prismaArchHeavyPistols":"棱晶 什長雙槍",
     "mirageImmortalSkin":"Mirage 不朽外觀",
     "taxonDesert-camoSkin":"塔克桑 沙漠迷彩外觀",
-    "kiteerArrowSkin":"Ki'teer 箭矢外觀"
+    "kiteerArrowSkin":"Ki'teer 箭矢外觀",
+    "primedTacticalPump":"戰術上膛 Prime",
+    "kiteerStencil":"Ki'teer 壁紙模板",
+    "elixisLatronPistol":"鍍銅拉特昂手槍外觀",
+    "harkonarWraithChestArmor":"哈庫納亡魂胸甲",
+    "hydroidImmortalSkin":"Hydroid不朽外觀",
+    "3DayAffinityBooster":"3 天經驗加成",
+    "tigrisElixisSkin":"猛虎 鍍銅外觀"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
