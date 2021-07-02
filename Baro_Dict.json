@@ -1205,7 +1205,7 @@
     "zylok": "賽爾火槍",
     "rubicoPrime": "絕路 Prime",
     "gramPrime": "格拉姆 Prime",
-    "prismaMachete": "稜晶 馬謝特砍刀 (國服)",
+    "prismaMachete": "稜晶 馬謝特砍刀",
     "prismaTwinGremlins": "稜晶 雙子小精靈",
     "cadus": "光棍 (國服)",
     "carminePenta": "緋紅五芒星榴彈炮 (國服)",
@@ -2029,7 +2029,12 @@
     "harkonarWraithChestArmor":"哈庫納亡魂胸甲",
     "hydroidImmortalSkin":"Hydroid不朽外觀",
     "3DayAffinityBooster":"3 天經驗加成",
-    "tigrisElixisSkin":"猛虎 鍍銅外觀"
+    "tigrisElixisSkin":"猛虎 鍍銅外觀",
+    "asraLuxxumOrnament":"希望 樂昇飾物",
+    "umbraPedestal":"Umbra 基座",
+    "eminence":"顯赫",
+    "mantisCydoniaSkin":"Mantis 塞東尼亞外觀",
+    "corruptedBombardSpecterBlueprint":"墮落轟擊者魅影 藍圖"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
