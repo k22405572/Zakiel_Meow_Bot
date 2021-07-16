@@ -2034,7 +2034,15 @@
     "umbraPedestal":"Umbra 基座",
     "eminence":"顯赫",
     "mantisCydoniaSkin":"Mantis 塞東尼亞外觀",
-    "corruptedBombardSpecterBlueprint":"墮落轟擊者魅影 藍圖"
+    "corruptedBombardSpecterBlueprint":"墮落轟擊者魅影 藍圖",
+    "baroMoaPetSkin":"Ki'teer 恐鳥寵物外觀",
+    "secondaryExplosionRadiusModExpert":"猛烈爆發 Prime",
+    "hoverboardStickerBaroB":"綠色 Ki'teer 獵遊 K 式懸浮板塗鴉",
+    "mesaImmortalSkin":"Mesa 不朽外觀",
+    "prismaLatronChestPlate":"棱晶拉特昂胸甲",
+    "prismaLatronLegPlate":"棱晶拉特昂腿甲",
+    "prismaLatronShoulderPlate":"棱晶拉特昂肩甲",
+    "akkaLuxxumOrnament":"手足 樂昇飾物"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
