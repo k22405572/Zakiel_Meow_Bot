@@ -2027,7 +2027,7 @@
     "kiteerStencil":"Ki'teer 壁紙模板",
     "elixisLatronPistol":"鍍銅拉特昂手槍外觀",
     "harkonarWraithChestArmor":"哈庫納亡魂胸甲",
-    "hydroidImmortalSkin":"Hydroid不朽外觀",
+    "hydroidImmortalSkin":"Hydroid 不朽外觀",
     "3DayAffinityBooster":"3 天經驗加成",
     "tigrisElixisSkin":"猛虎 鍍銅外觀",
     "asraLuxxumOrnament":"希望 樂昇飾物",
@@ -2043,7 +2043,8 @@
     "prismaLatronChestPlate":"棱晶拉特昂胸甲",
     "prismaLatronLegPlate":"棱晶拉特昂腿甲",
     "prismaLatronShoulderPlate":"棱晶拉特昂肩甲",
-    "akkaLuxxumOrnament":"手足 樂昇飾物"
+    "akkaLuxxumOrnament":"手足 樂昇飾物",
+    "nidusImmortalSkin":"Nidus 不朽外觀"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
