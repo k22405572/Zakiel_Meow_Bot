@@ -1984,6 +1984,7 @@
     "tarotCardTennoConC":"卡牌 — 火衛二暴速翼蟲",
     "tarotCardTennoConD":"卡牌 — 火衛二鞭棘鱇",
     "tarotCardTennoConE":"卡牌 — 火衛二臟葉鰼",
+    "tarotCardTennoConF":"卡牌 — 火衛二血喉獸",
     "tarotCardTennoConI":"卡牌 — Xaku",
     "tarotCardTennoConJ":"卡牌 — 火衛二奇美鮥",
     "zephyrImmortalSkin":"Zephyr 不朽外觀",
@@ -2051,7 +2052,10 @@
     "blueKiteerSafariK-driveScrawl":"藍色 Ki'teer 獵遊 K 式懸浮板塗鴉",
     "kiteerAtmosOculus":"Ki'teer 大氣眼飾",
     "prismaUruSyandana":"棱晶 烏魯披飾",
-    "parazonPoster":"萬靈袖刃海報"
+    "parazonPoster":"萬靈袖刃海報",
+    "plushyMoonMonsterCommon":"VOME 玩偶",
+    "display-Argyle":"展示圖－菱形",
+    "glaringSigil":"耀目紋章"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
