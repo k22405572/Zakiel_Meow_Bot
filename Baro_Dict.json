@@ -2070,7 +2070,10 @@
     "halloweenDread":"恐懼 亡靈節外觀",
     "inMahBellyGlyph":"聽話！讓我吃吃浮印",
     "tnShinaiSwordSkin":"坦努凱長劍外觀",
-    "tnRibbonStaffSkin":"浮萍長棍外觀"
+    "tnRibbonStaffSkin":"浮萍長棍外觀",
+    "tnShinaiArmorA":"坦努凱肩甲",
+    "tnShinaiArmorC":"坦努凱胸甲",
+    "tnShinaiArmorL":"坦努凱腿甲"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
