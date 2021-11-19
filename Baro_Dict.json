@@ -1863,6 +1863,7 @@
     "tennoKindredRug": "TENNO 血緣小地毯",
     "prismaRostamKubrowArmor": "棱晶 洛斯塔姆庫狛護甲",
     "taxonDesertCamoSkin": "塔克桑 沙漠迷彩外觀",
+    "taxonDesert-CamoSkin":"塔克桑 沙漠迷彩外觀",
     "coccystSugatra": "尾骨墜飾",
     "paracystZebraSkin": "附肢寄生者 斑紋外觀",
     "fluctusRahkSkin": "悲痛之刃 輕蔑外觀",
@@ -1987,6 +1988,7 @@
     "tarotCardTennoConE":"卡牌 — 火衛二臟葉鰼",
     "tarotCardTennoConF":"卡牌 — 火衛二血喉獸",
     "tarotCardTennoConG":"卡牌 — 火衛二岩者",
+    "tarotCardTennoConH":"卡牌 — 火衛二嗜肉者",
     "tarotCardTennoConI":"卡牌 — Xaku",
     "tarotCardTennoConJ":"卡牌 — 火衛二奇美鮥",
     "deimosVeolicpodPrex":"卡牌 — 火衛二暴速翼蟲",
@@ -2073,7 +2075,8 @@
     "tnRibbonStaffSkin":"浮萍長棍外觀",
     "tnShinaiArmorA":"坦努凱肩甲",
     "tnShinaiArmorC":"坦努凱胸甲",
-    "tnShinaiArmorL":"坦努凱腿甲"
+    "tnShinaiArmorL":"坦努凱腿甲",
+    "dualRibbonKamasSkin":"雙劍 浮萍外觀"
   },
   "messagesExtend": {
     "blueprint": "藍圖",
